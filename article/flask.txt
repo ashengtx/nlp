@@ -1,0 +1,3 @@
+Welcome to Flask’s documentation. This documentation is divided into different parts. I recommend that you get started with Installation and then head over to the Quickstart. Besides the quickstart, there is also a more detailed Tutorial that shows how to create a complete (albeit small) application with Flask. If you’d rather dive into the internals of Flask, check out the API documentation. Common patterns are described in the Patterns for Flask section.
+
+Flask depends on two external libraries: the Jinja2 template engine and the Werkzeug WSGI toolkit. These libraries are not documented here. If you want to dive into their documentation, check out the following links:
